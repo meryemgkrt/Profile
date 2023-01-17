@@ -4,5 +4,5 @@
 <p>Bilgisayar bilgileriniz adlı kişsel bir site oluşturuldu</P>
 
 ![](kişisel.gif)# Ki-isel
-# Profile
+
 # Profile
