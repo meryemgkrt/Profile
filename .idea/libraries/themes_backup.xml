@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="themes_backup">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/AppData/Roaming/Opera Software/Opera Stable/themes_backup/default_theme.zip!/" />
+      <root url="jar://$PROJECT_DIR$/AppData/Roaming/Opera Software/Opera Stable/themes_backup/default_dark_theme.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

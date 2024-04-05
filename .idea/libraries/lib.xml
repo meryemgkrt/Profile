@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.vscode/extensions/adamvoss.vscode-languagetool-en-3.8.0/lib/opennlp-postag-models-1.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.vscode/extensions/adamvoss.vscode-languagetool-en-3.8.0/lib/language-en-3.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.vscode/extensions/adamvoss.vscode-languagetool-en-3.8.0/lib/opennlp-tokenize-models-1.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.vscode/extensions/adamvoss.vscode-languagetool-en-3.8.0/lib/opennlp-tools-1.7.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.vscode/extensions/adamvoss.vscode-languagetool-en-3.8.0/lib/opennlp-chunk-models-1.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

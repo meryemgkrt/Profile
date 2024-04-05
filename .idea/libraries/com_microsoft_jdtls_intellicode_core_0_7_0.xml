@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="com.microsoft.jdtls.intellicode.core-0.7.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.2.30/dist/com.microsoft.jdtls.intellicode.core-0.7.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

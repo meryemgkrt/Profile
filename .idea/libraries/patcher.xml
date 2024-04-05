@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="patcher">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/AppData/Local/Android/Sdk/patcher/v4/patcher.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

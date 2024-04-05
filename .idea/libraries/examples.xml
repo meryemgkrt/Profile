@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="examples">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.vscode/extensions/yummygum.city-lights-icon-vsc-1.1.3/examples/java.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.vscode/extensions/yummygum.city-lights-icon-vsc-1.1.3/examples/zip.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="python37">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/MediaGet2/python/python37.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
