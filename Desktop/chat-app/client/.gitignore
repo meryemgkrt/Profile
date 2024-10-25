@@ -1,0 +1,37 @@
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+.DS_Store
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Eklenenler
+AppData/
+Documents/
+Local Settings/
+Desktop/MSSQL16.SQLEXPRESS/
+Desktop/chat-app/
+Desktop/pos-application/
+Desktop/MESEMTESLİMMMM/
+Desktop/\303\247al\304\261\305\237malar\304\261m/
+.VBox/
+.android/
+.docker/
+.vscode/
+.gitconfig
